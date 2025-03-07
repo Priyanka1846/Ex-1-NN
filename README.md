@@ -1,7 +1,6 @@
 ## ENTER YOUR NAME: PRIYANKA K
-<H3>ENTER YOUR REGISTER NO.</H3> 212223230162
-<H3>EX. NO.1</H3>
-<H3>DATE</H3>7.3.25
+## ENTER YOUR REGISTER EX. NO.1</H3>
+## DATE: 7.3.25
 <H1 ALIGN =CENTER> Introduction to Kaggle and Data preprocessing</H1>
 
 ## AIM:
